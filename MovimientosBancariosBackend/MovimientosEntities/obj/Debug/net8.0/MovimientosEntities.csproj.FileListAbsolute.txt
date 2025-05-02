@@ -1,0 +1,11 @@
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\bin\Debug\net8.0\MovimientosEntities.deps.json
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\bin\Debug\net8.0\MovimientosEntities.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\bin\Debug\net8.0\MovimientosEntities.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\MovimientosEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\MovimientosEntities.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\MovimientosEntities.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\MovimientosEntities.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\MovimientosEntities.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\refint\MovimientosEntities.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\MovimientosEntities.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosEntities\obj\Debug\net8.0\ref\MovimientosEntities.dll

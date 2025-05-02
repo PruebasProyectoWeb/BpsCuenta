@@ -1,0 +1,17 @@
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\bin\Debug\net8.0\PersistenciaDataBase.deps.json
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\bin\Debug\net8.0\PersistenciaDataBase.runtimeconfig.json
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\bin\Debug\net8.0\PersistenciaDataBase.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\bin\Debug\net8.0\PersistenciaDataBase.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\bin\Debug\net8.0\MovimientosEntities.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\bin\Debug\net8.0\MovimientosEntities.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\Persiste.00A5D409.Up2Date
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\refint\PersistenciaDataBase.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\PersistenciaDataBase.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\PersistenciaDataBase\obj\Debug\net8.0\ref\PersistenciaDataBase.dll

@@ -1,0 +1,17 @@
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\bin\Debug\net8.0\MovimientosBusiness.deps.json
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\bin\Debug\net8.0\MovimientosBusiness.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\bin\Debug\net8.0\MovimientosBusiness.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\bin\Debug\net8.0\MovimientosEntities.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\bin\Debug\net8.0\PersistenciaDataBase.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\bin\Debug\net8.0\MovimientosEntities.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\bin\Debug\net8.0\PersistenciaDataBase.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\MovimientosBusiness.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\MovimientosBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\MovimientosBusiness.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\MovimientosBusiness.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\MovimientosBusiness.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\Movimien.28369234.Up2Date
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\MovimientosBusiness.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\refint\MovimientosBusiness.dll
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\MovimientosBusiness.pdb
+C:\Users\sergi\OneDrive\Escritorio\Pruebas empresa\BPS Group\MovimientosBancariosBackend\MovimientosBusiness\obj\Debug\net8.0\ref\MovimientosBusiness.dll
