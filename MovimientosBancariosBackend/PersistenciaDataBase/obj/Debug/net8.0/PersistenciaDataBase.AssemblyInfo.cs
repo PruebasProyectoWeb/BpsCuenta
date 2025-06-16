@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersistenciaDataBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd4950bd45df9ba31a4b27a2ca83bd17562869ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersistenciaDataBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersistenciaDataBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
