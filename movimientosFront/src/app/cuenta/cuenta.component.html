@@ -1,0 +1,29 @@
+<h2>Crear Cuenta</h2>
+
+<form [formGroup]="cuentaForm" (ngSubmit)="onSubmit()">
+  <div>
+    <label for="numeroCuenta">Número de Cuenta:</label>
+    <input id="numeroCuenta" formControlName="numeroCuenta" type="text" />
+    <div *ngIf="cuentaForm.get('numeroCuenta')?.invalid && cuentaForm.get('numeroCuenta')?.touched">
+      <small style="color: red;">El número de cuenta es obligatorio.</small>
+    </div>
+  </div>
+
+  <div>
+    <label for="nombreTitular">Nombre del Titular:</label>
+    <input id="nombreTitular" formControlName="nombreTitular" type="text" />
+    <div *ngIf="cuentaForm.get('nombreTitular')?.invalid && cuentaForm.get('nombreTitular')?.touched">
+      <small style="color: red;">El nombre del titular es obligatorio.</small>
+    </div>
+  </div>
+
+  <div>
+    <label for="saldo">Saldo:</label>
+    <input id="saldo" formControlName="saldo" type="number" step="0.01" />
+    <div *ngIf="cuentaForm.get('saldo')?.invalid && cuentaForm.get('saldo')?.touched">
+      <small style="color: red;">El saldo debe ser mayor o igual a 0.</small>
+    </div>
+  </div>
+
+  <button type="submit" [disabled]="cuentaForm.invalid">Crear Cuenta</button>
+</form>
